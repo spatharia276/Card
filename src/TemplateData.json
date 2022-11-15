@@ -1,0 +1,44 @@
+[
+    {
+        "id": 1,
+        "image": "../images/rajesh.jpeg",
+        "title": "Rajesh Khattar",
+        "about": "Rajesh Khattar is an Indian actor, voice artist and screenwriter who works mainly in Bollywood.",
+        "price": 335
+    },
+    {
+        "id": 2,
+        "image": "../images/Richa.jpeg",
+        "title": "Richa Nigam",
+        "about": "Richa has a husky and a dark voice. She is also known as a popular voice over artist in India.",
+        "price": 450
+    },
+    {
+        "id": 3,
+        "image": "./images/Piyush1.jpeg",
+        "title": "Piyush Mishra",
+        "about": "Piyush Mishra is an Indian film actor, director, singer, scriptwriter, lyricist.",
+        "price": 200
+    },
+    {
+        "id": 4,
+        "image": "../images/Raghubir.jpeg",
+        "title": "Raghubir Yadav",
+        "about": "Raghubir Yadav is an Indian actor, singer, music composer. He has worked in the popular films.",
+        "price": 450
+    },
+    {
+        "id": 5,
+        "image": "./images/Sonia.jpeg",
+        "title": "Sonia Nair",
+        "about": "Sonia has given her voice to the popular ads which have female voice.",
+        "price": 200
+    },
+    {
+        "id": 6,
+        "image": "../images/Atul.jpeg",
+        "title": "Atul Kapoor",
+        "about": "Atul Kapoor is an Indian voice-over artist popular for his work in dubbing foreign content in Hindi.",
+        "price": 450
+    }
+]
